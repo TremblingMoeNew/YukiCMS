@@ -1,0 +1,27 @@
+<style>
+    .main{
+        width:700px;
+        margin:100 auto;
+        border-radius: 5px;
+        border-color: #EEEEEE;
+        border-width: 1px;
+        border-style: solid;
+        box-shadow: 1px 2px 1px #BBBBBB;
+    }
+    .content{
+        width:620px;
+        margin: 30 auto;
+    }
+    .title{
+        font-size: 20px;
+    }
+    .body,.footer{
+        font-size: 0.875rem;
+        margin: 20 30;
+        color: #888888;
+    }
+    .footer p{
+        text-align: right;
+    }
+
+</style>
